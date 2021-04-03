@@ -12,8 +12,8 @@ Estudante de Análise e Desenvolvimento de Sistema com conhecimentos fundamentai
 - *CertiProf* – DevOps Essentials Professional Certificate(DEPC)
 
 ## 🌱 Aprendendo
-PHP 
-Node.JS
+- PHP 
+- React.JS
 
 ## 📫 Contato
 - LinkedIn - https://www.linkedin.com/in/revv/
