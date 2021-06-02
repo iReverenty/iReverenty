@@ -14,6 +14,7 @@ Estudante de Análise e Desenvolvimento de Sistema com conhecimentos fundamentai
 ## 🌱 Aprendendo
 - PHP 
 - React.JS
+- Node.JS
 
 ## 📫 Contato
 - LinkedIn - https://www.linkedin.com/in/revv/
